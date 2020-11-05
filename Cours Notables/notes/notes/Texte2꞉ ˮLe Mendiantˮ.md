@@ -2,7 +2,7 @@
 title: 'Texte2: "Le Mendiant"'
 tags: [Francais/Travaux sur textes]
 created: '2020-10-28T23:09:24.012Z'
-modified: '2020-11-02T13:12:08.503Z'
+modified: '2020-11-05T16:10:03.047Z'
 ---
 
 # Texte2: "Le Mendiant"
@@ -59,6 +59,19 @@ v6-7: rejet -> en bas de l'echelle csociale.
 v9: parllelisme de construction -> v.8
 
 v10 Dialogue qui s'installe entre 2 personnage qui confirme l'impression le charactere réalisme du passage. Permet de rendre ce récit plus vivant.
+
+### Partie 2
+
+Pléonasme : gélotait de froid.
+Rejet v23: 
+" fournaise " = chaleur
+"pensif sans l'entandre " le narateur l'entands mais ne l'écote pas les dialogues accentuebt le réaliste de la scène
+"plein de priere hes" = Il n'a pas vecu super en tant que mandiant
+v26 diérèse "constélations" = accentuation sur constélation  
+
+Gradation = [chaude, lueurs, ciel, étoilé, constélations]
+lueures de la Braise -> piqué = personication
+
 
 .
 .
