@@ -1,7 +1,8 @@
 ---
 title: La Prose du transsibérien et de la petite Jehanne de France
+deleted: true
 created: '2020-10-14T09:37:53.935Z'
-modified: '2020-10-28T18:41:01.825Z'
+modified: '2020-11-23T15:20:49.883Z'
 ---
 
 # La Prose du transsibérien et de la petite Jehanne de France
