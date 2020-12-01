@@ -1,7 +1,8 @@
 ---
 title: la prose du Transsibérien de blaise cendrars
+deleted: true
 created: '2020-10-13T19:53:49.555Z'
-modified: '2020-10-28T18:41:00.342Z'
+modified: '2020-11-23T15:20:48.429Z'
 ---
 
 # la prose du Transsibérien de blaise cendrars
